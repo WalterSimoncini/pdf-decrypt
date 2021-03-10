@@ -6,8 +6,6 @@ import subprocess
 
 from pdfrw import PdfReader, PdfWriter, PdfReader
 
-from fingerprint import fingerprint
-
 
 def copy_pdf_id(src, target):
     """
