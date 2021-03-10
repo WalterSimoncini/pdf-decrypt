@@ -1,6 +1,6 @@
 ### PDF Decryptor
 
-This repository contains simple PDF decryptor.
+This repository contains a simple PDF decryptor.
 
 To run it first install the required dependencies with `pip install -r requirements.txt` and run `python decrypt.py` specifying the following arguments:
 
