@@ -13,4 +13,4 @@ If it's not bundled with your system you may also have to install [Tesseract](ht
 
 ### How does this work?
 
-This script rasterizes the input PDF to a set of images using `pdftoppm`, which are then rebuilt in a PDF via `tesseract` and finally the OCR is applied via [ocrmypdf](https://ocrmypdf.readthedocs.io/en/latest/)
+This script rasterizes the input PDF to a set of images using `pdftoppm`, which are then rebuilt into a PDF via `tesseract` and finally the OCR is applied via [ocrmypdf](https://ocrmypdf.readthedocs.io/en/latest/)
