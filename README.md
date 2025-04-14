@@ -2,7 +2,7 @@
 
 This repository contains a simple PDF decryptor.
 
-To run it first install the required dependencies with `pip install -r requirements.txt` and run `python decrypt.py` specifying the following arguments:
+To run it first create an appropriate Python environment (this code was tested with Python 3.10) and install the required dependencies with `pip install -r requirements.txt`. Once done, run `python decrypt.py` specifying the following arguments:
 
 - `--input`: path to the encrypted PDF file
 - `--output`: path where the output PDF will be saved
